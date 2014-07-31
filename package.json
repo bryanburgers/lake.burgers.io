@@ -1,0 +1,25 @@
+{
+  "name": "laketemperature",
+  "version": "0.1.0",
+  "description": "The temperature of the lake at Lewis & Clark Lake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bryanburgers/lake.burgers.io.git"
+  },
+  "author": "Bryan Burgers <bryan@burgers.io> (http://burgers.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanburgers/laketemperature/issues"
+  },
+  "homepage": "https://github.com/bryanburgers/laketemperature",
+  "dependencies": {
+    "htmlparser2": "^3.7.3",
+    "mustache": "^0.8.2",
+    "q": "^1.0.1",
+    "request": "^2.39.0"
+  }
+}
